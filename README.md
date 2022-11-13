@@ -1,4 +1,4 @@
-# GuessMyNumber_Project1
+# Guess My Number Game 
 
 Simple game of guessing a number between 1 and 20. 
 If the guess is wrong, the score (starting from 20) will decrease by one, whereas if the guess is right, the highscore will be set to the score.
